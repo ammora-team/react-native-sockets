@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sockets",
+  "name": "@ammora/react-native-sockets",
   "version": "0.0.4",
   "description": "Socket server and client bindings for React Native (Android)",
   "main": "index.android.js",
